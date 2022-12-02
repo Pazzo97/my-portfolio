@@ -6,10 +6,10 @@ import { FaAngellist } from 'react-icons/fa';
 const HeaderSocials = () => {
   return (
 		<div className='header__socials'>
-			<a href='https://linkedin.com' target='__blank'>
+			<a href='https://www.linkedin.com/in/patrick-mukunzi/' target='__blank'>
 				<BsLinkedin />
 			</a>
-			<a href='https://github.com' target='__blank'>
+			<a href='github.com/Pazzo97' target='__blank'>
 				<FaGithub />
 			</a>
 			<a href='https://angellist.com' target='__blank'>
