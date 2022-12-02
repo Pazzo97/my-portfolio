@@ -58,6 +58,7 @@ h1 {
 
 section {
   margin-top: 8rem;
+  height: 100vh;
 }
 
 section>h2, section>h5 {
@@ -74,6 +75,10 @@ section>h2 {
   color: var(--color-light);
   transition: var(--transition);
 }
+
+/* a:visited {
+  color: var(--color-primary);
+} */
 
 a:hover {
   color: var(--color-light);
@@ -130,7 +135,7 @@ img {
     width: var(--container-width-sm);
   }
 
-  section > h2 {
+  section>h2 {
     margin-bottom: 2rem;
   }
 }
