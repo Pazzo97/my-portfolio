@@ -1,57 +1,57 @@
 import React from 'react';
 import '../portfolio/portfolio.css';
-import IMG1 from '../../assets/portfolio1.jpg';
-import IMG2 from '../../assets/portfolio2.jpg';
-import IMG3 from '../../assets/portfolio3.jpg';
-import IMG4 from '../../assets/portfolio4.jpg';
-import IMG5 from '../../assets/portfolio5.png';
 import IMG6 from '../../assets/portfolio6.jpg';
+import Nobilis from '../../assets/Nobilis.png'
+import Zoi from '../../assets/Zoi-Store.png'
+import Space from '../../assets/space.png'
+import TV from '../../assets/TV-Show.png'
+import Africa from '../../assets/Africa.png'
 
 const data = [
 	{
 		id: 1,
-		image: IMG1,
-		title: 'Crypto Currency Dashboard  & Financial Visualization',
-		github: 'https://github.com',
-		demo: 'https://dribbble.com/shots/16673715-Crypto-currency-dashboards-and-financial-data-visualization',
+		image: Nobilis,
+		title: 'Nobilis Summer Bootcamp',
+		github: 'https://github.com/Pazzo97/Nobilis-2022-Summer-Bootcamp',
+		demo: 'https://pazzo97.github.io/Nobilis-2022-Summer-Bootcamp/',
 	},
 
 	{
 		id: 2,
-		image: IMG2,
-		title: 'Crypto currency dashboards and financial data visualization',
-		github: 'https://github.com',
-		demo: 'https://dribbble.com/shots/16673715',
+		image: Zoi,
+		title: 'The Zoi Online Store',
+		github: 'https://github.com/Pazzo97/store-app-react-redux',
+		demo: 'https://zoi-store.netlify.app/',
 	},
 
 	{
 		id: 3,
-		image: IMG3,
-		title: 'Crypto Currency Dashboard  & Financial Visualization',
-		github: 'https://github.com',
-		demo: 'https://dribbble.com/shots/16580766-Orion-UI-kit-Charts-templates-infographics-in-Figma',
+		image: Space,
+		title: "The Space Travelers' Hub",
+		github: 'https://github.com/Pazzo97/Space-Travelers-Hub',
+		demo: 'https://space-travelers-hub01.netlify.app/',
 	},
 
 	{
 		id: 4,
-		image: IMG4,
-		title: 'Crypto Currency Dashboard  & Financial Visualization',
-		github: 'https://github.com',
-		demo: 'https://dribbble.com/shots/19773322-Eclipse-Figma-dashboard-UI-kit-for-data-design-web-apps',
+		image: TV,
+		title: 'Under The Dom Season1 ',
+		github: 'https://github.com/Pazzo97/TV-Shows',
+		demo: 'https://pazzo97.github.io/TV-Shows/',
 	},
 
 	{
 		id: 5,
-		image: IMG5,
-		title: 'Crypto Currency Dashboard  & Financial Visualization',
-		github: 'https://github.com',
-		demo: 'https://dribbble.com/shots/19886714-Eclipse-Figma-dashboard-UI-kit-for-data-design-web-apps',
+		image: Africa,
+		title: 'Africa Metrics Data',
+		github: 'https://github.com/Pazzo97/metrics-webapp',
+		demo: 'https://our-africa.netlify.app/',
 	},
 
 	{
 		id: 6,
 		image: IMG6,
-		title: 'Crypto Currency Dashboard  & Financial Visualization',
+		title: 'The Crystal Budget App',
 		github: 'https://github.com',
 		demo: 'https://dribbble.com/shots/19838639-Orion-UI-kit-for-Figma',
 	},
