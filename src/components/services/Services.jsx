@@ -15,69 +15,58 @@ const Services = () => {
 					<ul className='service__list'>
 						<li>
 							<BiCheck className='service__list-icon' />
-							<p>Lorem ipsum dolor sit amet consectetur, adipisicing elit.</p>
+							<p>
+								Write well designed, testable, efficient code by using best
+								software development practices.
+							</p>
 						</li>
 
 						<li>
 							<BiCheck className='service__list-icon' />
-							<p>Lorem ipsum dolor sit amet consectetur, adipisicing elit.</p>
+							<p>
+								Create website layout/user interface by using standard HTML/CSS
+								practices.
+							</p>
 						</li>
 
 						<li>
 							<BiCheck className='service__list-icon' />
-							<p>Lorem ipsum dolor sit amet consectetur, adipisicing elit.</p>
+							<p>
+								Integrate data from various back-end services and databases.
+							</p>
 						</li>
 
 						<li>
 							<BiCheck className='service__list-icon' />
-							<p>Lorem ipsum dolor sit amet consectetur, adipisicing elit.</p>
+							<p>
+								Gather and refine specifications and requirements based on
+								technical needs.
+							</p>
 						</li>
 
 						<li>
 							<BiCheck className='service__list-icon' />
-							<p>Lorem ipsum dolor sit amet consectetur, adipisicing elit.</p>
+							<p>Create and maintain software documentation.</p>
 						</li>
 
 						<li>
 							<BiCheck className='service__list-icon' />
-							<p>Lorem ipsum dolor sit amet consectetur, adipisicing elit.</p>
-						</li>
-					</ul>
-				</article>
-
-				<article className='service'>
-					<div className='service__head'>
-						<h3>UI/UX Design</h3>
-					</div>
-					<ul className='service__list'>
-						<li>
-							<BiCheck className='service__list-icon' />
-							<p>Lorem ipsum dolor sit amet consectetur, adipisicing elit.</p>
+							<p>
+								Be responsible for maintaining, expanding, and scaling site.
+							</p>
 						</li>
 
 						<li>
 							<BiCheck className='service__list-icon' />
-							<p>Lorem ipsum dolor sit amet consectetur, adipisicing elit.</p>
+							<p>
+								Stay plugged into emerging technologies/industry trends and
+								apply them into operations and activities.
+							</p>
 						</li>
 
 						<li>
 							<BiCheck className='service__list-icon' />
-							<p>Lorem ipsum dolor sit amet consectetur, adipisicing elit.</p>
-						</li>
-
-						<li>
-							<BiCheck className='service__list-icon' />
-							<p>Lorem ipsum dolor sit amet consectetur, adipisicing elit.</p>
-						</li>
-
-						<li>
-							<BiCheck className='service__list-icon' />
-							<p>Lorem ipsum dolor sit amet consectetur, adipisicing elit.</p>
-						</li>
-
-						<li>
-							<BiCheck className='service__list-icon' />
-							<p>Lorem ipsum dolor sit amet consectetur, adipisicing elit.</p>
+							<p>Cooperate with web designers to match visual design intent.</p>
 						</li>
 					</ul>
 				</article>
