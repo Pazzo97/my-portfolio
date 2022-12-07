@@ -19,14 +19,14 @@ const data = [
 		avatar: Roland,
 		name: 'Roland Ossisa Yuma',
 		review:
-			'Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem voluptatem aliquam eius iusto ad modi blanditiis, harum ex optio ab minima ullam velit earum dicta voluptate ea est pariatur veniam!',
+			'I worked with many software developers but Patrick was one of the best. His commitment and good technical and communication skills kept me motivated and focused during stressful times. His ability to work with different people worldwide was beneficial during meetings as he could handle conflicts professionally. I can tell of him as someone reliable and professional. Patrick would be a lucky addition to any team, and I recommend him to anybody or any company looking for an excellent Software Engineer.',
 	},
 
 	{
 		avatar: Mustapha,
 		name: 'Mostefa Terbeche',
 		review:
-			'Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem voluptatem aliquam eius iusto ad modi blanditiis, harum ex optio ab minima ullam velit earum dicta voluptate ea est pariatur veniam!',
+			'Patrick is probably the most punctual developer I\'ve ever worked with, we were part of the same team working remotely on a web project and he was the most motivated member of the team, Always showing in time and facilitating communication between other members. He also has decent problem-solving skills and a good mastery of web development technologies in both front and back end sides. His determination, kindness, and flexibility will definitely make him a good team member. I highly recommend him.',
 	},
 	{
 		avatar: Olivier,
@@ -38,7 +38,7 @@ const data = [
 		avatar: Edward,
 		name: 'Edward Odhiambo',
 		review:
-			'Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem voluptatem aliquam eius iusto ad modi blanditiis, harum ex optio ab minima ullam velit earum dicta voluptate ea est pariatur veniam!',
+			'Patrick is a great coding partner. Worked with him on several projects. He really listens to other members opinion and easy to work with.',
 	},
 ];
 
