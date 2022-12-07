@@ -38,14 +38,6 @@ const Experience = () => {
 						<article className='experience__details'>
 							<BsPatchCheckFill className='experience__details-icon' />
 							<div>
-								<h4>Ruby on Rails</h4>
-								<small className='text-light'>Experienced</small>
-							</div>
-						</article>
-
-						<article className='experience__details'>
-							<BsPatchCheckFill className='experience__details-icon' />
-							<div>
 								<h4>BootStrap</h4>
 								<small className='text-light'>Intermediate</small>
 							</div>
